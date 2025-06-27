@@ -1,0 +1,17 @@
+{
+    "name": "pato/tools-ia",
+    "autoload": {
+        "psr-4": {
+            "Pato\\ToolsIa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Patricio Aguirre",
+            "email": "patricio.aguirrelopez@gmail.com"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "^2.12"
+    }
+}
